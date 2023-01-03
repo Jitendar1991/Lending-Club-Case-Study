@@ -12,7 +12,7 @@ The company wants to understand the driving factors behind loan default, i.e. th
 
 ```
 
-## Technologies Used
+## Libraries Used
 - pandas
 - matplotlib
 - seaborn
